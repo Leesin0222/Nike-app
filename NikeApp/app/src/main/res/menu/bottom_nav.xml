@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="홈"
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_round_home_24"
+        />
+    <item
+        android:title="찜"
+        android:id="@+id/menu_hart"
+        android:icon="@drawable/ic_round_shopping_bag_24"
+        />
+    <item
+        android:title="로그인"
+        android:id="@+id/menu_login"
+        android:icon="@drawable/ic_round_login_24"
+        />
+</menu>
